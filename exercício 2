@@ -25,8 +25,8 @@ function gerenciarMatriculas(disciplinas) {
     }
 }
 
-console.log("--- Teste 1 ---");
+console.log("--- Saída 1 ---");
 gerenciarMatriculas(["HTML", "CSS", "JavaScript"]);
 
-console.log("\n--- Teste 2 ---");
+console.log("\n--- Saída 2 ---");
 gerenciarMatriculas(["Banco de Dados", "", "TCC", "Redes"]);
